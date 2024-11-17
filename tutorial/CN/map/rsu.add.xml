@@ -1,0 +1,5 @@
+<additional>
+    <e1Detector id="rsu1" lane=":5690447869_0_0 " pos="100" freq="10" file="rsu1_output.xml"/>
+    <e1Detector id="rsu2" lane=":5784502858_0_0" pos="200" freq="10" file="rsu2_output.xml"/>
+</additional>
+
