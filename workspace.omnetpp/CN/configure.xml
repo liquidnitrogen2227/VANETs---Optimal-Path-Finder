@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <AnalogueModel type="SimpleObstacleShadowing">
+        <obstacles>
+            <obstacle>
+                <shape>polygon</shape>
+                <vertices>
+                    <x>100</x>
+                    <y>100</y>
+                    <x>200</x>
+                    <y>100</y>
+                    <x>200</x>
+                    <y>200</y>
+                    <x>100</x>
+                    <y>200</y>
+                </vertices>
+            </obstacle>
+            <!-- Add more obstacles as needed -->
+        </obstacles>
+    </AnalogueModel>
+</root>
